@@ -17,13 +17,13 @@
 
   &__cover,
   &__details {
-    padding: var(--spacing-s);
+    padding: var(--spacing-m);
     text-align: center;
     width: 100%;
   }
 
   &__cover {
-    max-width: 400px;
+    max-width: 600px;
   }
 
   &__image {
